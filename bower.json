@@ -1,0 +1,29 @@
+{
+  "name": "phone-behavior",
+  "description": "A set of common utility functions that formats phone numbers.",
+  "version": "1.0.0",
+  "authors": [
+    "Next Century Corporation"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "phone-behavior.html",
+  "homepage": "https://github.com/DigElements/phone-behavior/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "lodash-import": "DigElements/lodash-import#~1.0.1"
+  },
+  "devDependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "web-component-tester": "^5.0.0"
+  },
+  "resolutions": {
+    "lodash": "~4.17.2"
+  }
+}
