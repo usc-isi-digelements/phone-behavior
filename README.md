@@ -1,4 +1,4 @@
-# array-behavior
+# phone-behavior
 
 A set of common utility functions that processes phone numbers.
 
